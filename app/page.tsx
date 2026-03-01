@@ -150,7 +150,7 @@ export default function Home() {
             </a>
 
             <a
-              href="/Kassem_Ben_Henda_CV.pdf"
+              href="/kassemcv.pdf"
               download
               className="px-8 py-3 rounded-full border border-purple-300 bg-white hover:bg-purple-50 hover:border-purple-400 transition flex items-center gap-2 text-slate-700"
             >
